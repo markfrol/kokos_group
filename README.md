@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/currency-rates.git
+git clone https://github.com/markfrol/kokos_group.git
 ```
 
 2. Install the required dependencies:
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 3. Run the Django project:
 
 ```bash
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ python manage.py runserver
 1. To fetch and save currency rates, run the following Django command:
 
 ```bash
-python manage.py get_currency_rates
+python3 manage.py get_currency_rates
 ```
 
 2. Access the admin panel with the following credentials:
